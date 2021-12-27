@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'nemo: nft-editor-multimodal',
+  title: 'nft-editor-multimodal',
   tagline: 'Multiplatform editor for interactive multimedia reprogrammable multimodal NFTs for https://near.org/ and more.',
   url: 'https://nft-editor-multimodal.now.sh/',
   baseUrl: '/',
@@ -8,9 +8,9 @@ module.exports = {
   projectName: 'nft-editor-multimodal', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'nemo: nft-editor-multimodal',
+      title: 'nft-editor-multimodal',
       logo: {
-        alt: 'nemo: nft-editor-multimodal logo',
+        alt: 'nft-editor-multimodal logo',
         src: 'img/logo.svg',
       },
       links: [
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} nft-editor-multimodal. All Rights Reserved. Built with Docusaurus 2.`,
+      copyright: `Copyright © ${new Date().getFullYear()} nft-editor-multimodal. All Rights Reserved.`,
     },
   },
   presets: [
