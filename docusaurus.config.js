@@ -57,7 +57,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/nft-multimodal',
+              href: 'https://twitter.com/nftmultimodal',
             },
           ],
         },
